@@ -96,6 +96,3 @@ docker-compose -f docker/docker-compose.yml up --build
   pytest
   black app/ tests/
   mypy app/
-
-## License
-  MIT License - see LICENSE for details.
